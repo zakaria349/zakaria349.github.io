@@ -1,0 +1,14 @@
+---
+title: "Zakaria Laraki"
+---
+
+## Skills 
+- Computational Statistics and Monte Carlo Methods
+- Data Cleaning and Visualization 
+- Database Design 
+
+## Education 
+- Data Science Major at the University of Colorado Denver 
+- Courses taken: Statistical Theory, Probability Theory, Machine Learning Methods, Applied Linear Algebra, Algorithms
+- 3.3 GPA 
+

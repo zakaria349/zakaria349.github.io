@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Zakaria Laraki"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+format:
+  html:
+    theme: vapor
+    css: styles.css
+    toc: true
+
+about:
+  template: trestles
+  image: profile.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:larakiz349@gmail.com
+    - icon: github
+      text: Github
+      href: https://github.com/zakaria349
+
